@@ -1,6 +1,8 @@
 # Luniv Technology
 Based in West Michigan but serving software globally.
 
+[Contact us](mailto:info@luniv.tech)
+
 ## Check out our projects/sites
 
 #### [Main Website](https://luniv.tech)
