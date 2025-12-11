@@ -7,4 +7,6 @@ Based in West Michigan but serving software globally.
 
 #### [Michigan Data Platform and Newsletter](https://michigan-pulse.com)
 
-#### [BI As Code Framework](https://github.com/LunivTechnology/LunivCore) / [Website](https://lunivcore.vercel.app)
+#### [BI-As-Code Framework](https://github.com/LunivTechnology/LunivCore) / [Website](https://lunivcore.vercel.app)
+
+#### [Status Page](https://luniv.betteruptime.com/)
